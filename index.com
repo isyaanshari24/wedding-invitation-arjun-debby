@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
 <meta charset="UTF-8">
-<title>Undangan Fadly & Debby Anggilia Putri</title>
+<title>Undangan Arjun & Debby Anggilia Putri</title>
 
 <meta property="og:title" content="Undangan Pernikahan Arjun & Debby">
 <meta property="og:description" content="Kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri pernikahan kami.">
@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://isyaanshari24.github.io/wedding-invitation-arjun-debby/">
 <meta property="og:type" content="website">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>The Wedding Of Fadly & Debby Anggilia Putri</title>
+<title>The Wedding Of Arjun & Debby Anggilia Putri</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
 
@@ -1418,7 +1418,7 @@ kami mengucapkan terima kasih.
 Wassalamu'alaikum Warahmatullahi Wabarakatuh.
 </p>
 
-<h1>Fadly & Debby Anggilia Putri</h1>
+<h1>Arjun & Debby</h1>
 
 </div>
 
@@ -1652,7 +1652,7 @@ flashBtn(btn,"Gagal, salin manual");
     
 function addToCalendar(){
 
-const title = "Resepsi Pernikahan Fadly & Debby Anggilia Putri";
+const title = "Resepsi Pernikahan Arjun & Debby";
 const alamat = "https://www.google.com/maps?q=-3.3324718410316407,114.5800446894702";
 const details = "Akad Nikah: Jumat, 6 November 2026 pukul 08:30 WITA. Resepsi: Minggu, 8 November 2026 pukul 09:00 WITA.";
 
@@ -1664,7 +1664,7 @@ const ics = [
 "BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Fadlia//Undangan//ID","CALSCALE:GREGORIAN",
 "BEGIN:VEVENT","UID:akad-20261106@fadlia","DTSTAMP:20260101T000000Z",
 "DTSTART;TZID=Asia/Makassar:20261106T083000","DTEND;TZID=Asia/Makassar:20261106T110000",
-"SUMMARY:Akad Nikah Fadly & Debby Anggilia Putri","LOCATION:"+alamat,"END:VEVENT",
+"SUMMARY:Akad Nikah Arjun & Debby","LOCATION:"+alamat,"END:VEVENT",
 "BEGIN:VEVENT","UID:resepsi-20261108@fadlia","DTSTAMP:20260101T000000Z",
 "DTSTART;TZID=Asia/Makassar:20261108T090000","DTEND;TZID=Asia/Makassar:20261108T120000",
 "SUMMARY:"+title,"LOCATION:"+alamat,"END:VEVENT","END:VCALENDAR"
