@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
 <meta charset="UTF-8">
-<title>Undangan Fadly & Kamalia</title>
+<title>Undangan Fadly & Debby Anggilia Putri</title>
 
 <meta property="og:title" content="Undangan Pernikahan Arjun & Debby">
 <meta property="og:description" content="Kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri pernikahan kami.">
@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://isyaanshari24.github.io/wedding-invitation-arjun-debby/">
 <meta property="og:type" content="website">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>The Wedding Of Fadly & Kamalia</title>
+<title>The Wedding Of Fadly & Debby Anggilia Putri</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
 
@@ -1000,7 +1000,7 @@ margin-bottom:6px;
     <div class="bg-fixed"></div>
     <header id="mainHeader">
 
-<div class="logo"><h1 class="gold">Fadlia</h1></div>
+<div class="logo"><h1 class="gold">Arby</h1></div>
 
 <button class="hamburger" onclick="toggleMenu()">
 ☰
@@ -1107,17 +1107,17 @@ kami bermaksud menyelenggarakan pernikahan:
 
 <br>
 
-<h1>Muhammad Fadly</h1>
+<h1>Arjun Efendi</h1>
 
 <p>
-Putra dari Bapak Tarmizi
-& Ibu Marfuah (alm)
+Putra pertama  dari Bapak Mulyadi
+& Ibu Heni Sukainah
 </p>
 
 <div class="profil-row">
   <img src="foto_pria.webp" class="foto-profil">
 </div>
-<a class="ig-btn" href="https://www.instagram.com/elzein599" target="_blank">
+<a class="ig-btn" href="https://www.instagram.com/creator_ajun22" target="_blank">
 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24">
 <path d="M7.75 2C4.57 2 2 4.57 2 7.75v8.5C2 19.43 4.57 22 7.75 22h8.5C19.43 22 22 19.43 22 16.25v-8.5C22 4.57 19.43 2 16.25 2h-8.5zm0 2h8.5C18.22 4 20 5.78 20 7.75v8.5C20 18.22 18.22 20 16.25 20h-8.5C5.78 20 4 18.22 4 16.25v-8.5C4 5.78 5.78 4 7.75 4zm9.75 1.5a1 1 0 110 2 1 1 0 010-2zM12 7a5 5 0 100 10 5 5 0 000-10zm0 2a3 3 0 110 6 3 3 0 010-6z"/>
 </svg>
@@ -1129,16 +1129,16 @@ Instagram
 
 <br>
 
-<h1>Kamalia</h1>
+<h1>Debby Anggilia Putri</h1>
 
 <p>
-Putri dari Bapak Abdul Hamid
-& Ibu Ida Rusdiana
+Putri kedua dari Bapak Sugito
+& Ibu Ida Rubiah
 </p>
 <div class="profil-row">
   <img src="foto_wanita.webp" class="foto-profil">
 </div>
-<a class="ig-btn" href="https://www.instagram.com/xoxo.lia01_" target="_blank">
+<a class="ig-btn" href="https://www.instagram.com/anggilia12_" target="_blank">
 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="white" viewBox="0 0 24 24">
 <path d="M7.75 2C4.57 2 2 4.57 2 7.75v8.5C2 19.43 4.57 22 7.75 22h8.5C19.43 22 22 19.43 22 16.25v-8.5C22 4.57 19.43 2 16.25 2h-8.5zm0 2h8.5C18.22 4 20 5.78 20 7.75v8.5C20 18.22 18.22 20 16.25 20h-8.5C5.78 20 4 18.22 4 16.25v-8.5C4 5.78 5.78 4 7.75 4zm9.75 1.5a1 1 0 110 2 1 1 0 010-2zM12 7a5 5 0 100 10 5 5 0 000-10zm0 2a3 3 0 110 6 3 3 0 010-6z"/>
 </svg>
@@ -1223,17 +1223,17 @@ Save the Date
 <div class="event-card">
 <div class="label">Akad Nikah</div>
 <div class="divider"></div>
-<p class="tgl">Jumat, 6 November 2026</p>
-<p class="jam">Pukul 08:30 WITA</p>
-<p class="alamat">Jl. Teluk Tiram Darat Gg ABC</p>
+<p class="tgl">Jumat, 18 Desember 2026</p>
+<p class="jam">Pukul 09:00 WITA</p>
+<p class="alamat">Desa handil gayam,No.31,Rt.02/Rw.01,Kec.bumi makmur,kab.tanah laut</p>
 </div>
 
 <div class="event-card">
 <div class="label">Resepsi</div>
 <div class="divider"></div>
-<p class="tgl">Minggu, 8 November 2026</p>
-<p class="jam">Pukul 09:00 WITA</p>
-<p class="alamat">Jl. Teluk Tiram Darat Gg ABC</p>
+<p class="tgl">Minggu, 20 Desember 2026</p>
+<p class="jam">Pukul 08:00 WITA</p>
+<p class="alamat">Desa handil gayam,No.31,Rt.02/Rw.01,Kec.bumi makmur,kab.tanah laut</p>
 </div>
 
 <!-- MAP -->
@@ -1325,18 +1325,18 @@ Namun apabila berkenan memberikan tanda kasih, Anda dapat mengirimkannya melalui
 <!-- CASHLESS -->
 <div id="cashless" class="gift-content">
 
-<div class="rek-box mandiri">
+<div class="rek-box bca">
 
-<img class="bank-logo" src="logo-mandiri.webp" alt="Bank Mandiri">
+<img class="bank-logo" src="logo-bca.webp" alt="Bank BCA">
 
 <div class="chip"></div>
 
-<div class="rek-number" id="rek1">
-310021099703
+<div class="rek-number" id="rek2">
+7820593230
 </div>
 
 <p class="rek-name">
-KAMALIA
+Arjun Efendi
 </p>
 
 <button class="copy-btn" onclick="copyRek('rek1',this)">
@@ -1353,11 +1353,11 @@ Copy
 <div class="chip"></div>
 
 <div class="rek-number" id="rek2">
-7820477094
+7895677604
 </div>
 
 <p class="rek-name">
-KAMALIA
+Debby Anggilia Putri
 </p>
 
 <button class="copy-btn" onclick="copyRek('rek2',this)">
@@ -1379,8 +1379,7 @@ Copy
 
 <p id="alamat">
 <br>
-Jl. Teluk Tiram Darat Gg ABC<br>
-Banjarmasin, Kalimantan Selatan
+Desa handil gayam,No.31,Rt.02/Rw.01,Kec.bumi makmur,kab.tanah laut
 </p>
 
 <button class="copy-btn" onclick="copyAlamat(this)">Copy Alamat</button>
@@ -1419,7 +1418,7 @@ kami mengucapkan terima kasih.
 Wassalamu'alaikum Warahmatullahi Wabarakatuh.
 </p>
 
-<h1>Fadly & Kamalia</h1>
+<h1>Fadly & Debby Anggilia Putri</h1>
 
 </div>
 
@@ -1552,7 +1551,7 @@ flashBtn(btn,"Gagal, salin manual");
 });
 }  
   
-const targetDate = new Date(2026,10,8,9,0,0).getTime();  
+const targetDate = new Date(2026,11,20,9,0,0).getTime();  
   
 setInterval(function(){  
   
@@ -1653,7 +1652,7 @@ flashBtn(btn,"Gagal, salin manual");
     
 function addToCalendar(){
 
-const title = "Resepsi Pernikahan Fadly & Kamalia";
+const title = "Resepsi Pernikahan Fadly & Debby Anggilia Putri";
 const alamat = "https://www.google.com/maps?q=-3.3324718410316407,114.5800446894702";
 const details = "Akad Nikah: Jumat, 6 November 2026 pukul 08:30 WITA. Resepsi: Minggu, 8 November 2026 pukul 09:00 WITA.";
 
@@ -1665,7 +1664,7 @@ const ics = [
 "BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Fadlia//Undangan//ID","CALSCALE:GREGORIAN",
 "BEGIN:VEVENT","UID:akad-20261106@fadlia","DTSTAMP:20260101T000000Z",
 "DTSTART;TZID=Asia/Makassar:20261106T083000","DTEND;TZID=Asia/Makassar:20261106T110000",
-"SUMMARY:Akad Nikah Fadly & Kamalia","LOCATION:"+alamat,"END:VEVENT",
+"SUMMARY:Akad Nikah Fadly & Debby Anggilia Putri","LOCATION:"+alamat,"END:VEVENT",
 "BEGIN:VEVENT","UID:resepsi-20261108@fadlia","DTSTAMP:20260101T000000Z",
 "DTSTART;TZID=Asia/Makassar:20261108T090000","DTEND;TZID=Asia/Makassar:20261108T120000",
 "SUMMARY:"+title,"LOCATION:"+alamat,"END:VEVENT","END:VCALENDAR"
